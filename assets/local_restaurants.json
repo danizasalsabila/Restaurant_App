@@ -1,0 +1,112 @@
+[
+      {
+        "id": "rqdv5juczeskfw1e867",
+        "name": "Melting Pot",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+        "pictureId": "https://restaurant-api.dicoding.dev/images/medium/14",
+        "city": "Medan",
+        "rating": 4.2,
+        "foods" : [ "Paket rosemary", "Toastie salmon", "Bebek crepes", "Salad lengkeng"],
+        "drinks" :["Es krim", "Sirup", "Jus apel", "Jus jeruk",  "Coklat panas", "Air", "Es kopi", "Jus alpukat", "Jus mangga", "Teh manis",  "Kopi espresso", "Minuman soda", "Jus tomat"]
+      },
+  
+      {
+        "id": "s1knt6za9kkfw1e867",
+        "name": "Kafe Kita",
+        "description": "Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,",
+        "pictureId": "https://restaurant-api.dicoding.dev/images/medium/25",
+        "city": "Gorontalo",
+        "rating": 4,
+        "foods" :["Kari kacang dan telur", "Ikan teri dan roti", "roket penne", "Salad lengkeng", "Tumis leek","Salad yuzu", "Sosis squash dan mint"],
+        "drinks" : ["Jus tomat", "Minuman soda", "Jus apel", "Jus mangga", "Es krim","Kopi espresso", "Jus alpukat", "Coklat panas", "Es kopi", "Teh manis", "Sirup", "Jus jeruk"]
+      },
+  
+      {
+        "id": "w9pga3s2tubkfw1e867",
+        "name": "Bring Your Phone Cafe",
+        "description": "Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,",
+        "pictureId": "https://restaurant-api.dicoding.dev/images/medium/03",
+        "city": "Surabaya",
+        "rating": 4.2,
+        "foods": [ "Salad lengkeng", "Sosis squash dan mint", "Toastie salmon", "Salad yuzu", "Matzo farfel", "Kari terong", "roket penne", "Napolitana", "Daging Sapi", "Bebek crepes", "Sup Kohlrabi", "Ikan teri dan roti", "Tumis leek"],
+        "drinks": ["Kopi espresso", "Coklat panas", "Jus jeruk", "Jus apel", "Minuman soda", "Air", "Es kopi"]
+      },
+  
+      {
+        "id": "uewq1zg2zlskfw1e867",
+        "name": "Kafein",
+        "description": "Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,",
+        "pictureId": "https://restaurant-api.dicoding.dev/images/medium/15",
+        "city": "Aceh",
+        "rating": 4.6,
+        "foods": ["Salad lengkeng", "Kari terong", "Sosis squash dan mint", "Napolitana", "Salad yuzu", "Kopi espresso", "Es kopi", "Sirup", "Jus alpukat", "Jus mangga", "Jus apel", "Es krim"],
+        "drinks" :[ "Minuman soda", "Es teh", "Jus tomat", "Coklat panas", "Jus jeruk", "Air", "Kopi espresso", "Es kopi", "Sirup", "Jus alpukat", "Jus mangga", "Jus apel", "Es krim"]
+      },
+  
+      {
+        "id": "ygewwl55ktckfw1e867",
+        "name": "Istana Emas",
+        "description": "Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,",
+        "pictureId": "https://restaurant-api.dicoding.dev/images/medium/05",
+        "city": "Balikpapan",
+        "rating": 4.5,
+        "foods": ["Daging Sapi", "Bebek crepes", "Toastie salmon", "Kari terong", "Paket rosemary", "Salad lengkeng"],
+        "drinks": ["Sirup", "Jus mangga", "Es teh", "Jus jeruk", "Teh manis", "Kopi espresso", "Es kopi", "Minuman soda", "Jus alpukat", "Jus tomat", "Es krim", "Coklat panas"]
+      },
+      
+      {
+        "id": "fnfn8mytkpmkfw1e867",
+        "name": "Makan mudah",
+        "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+        "pictureId": "https://restaurant-api.dicoding.dev/images/medium/22",
+        "city": "Medan",
+        "rating": 3.7,
+        "foods": ["Kari kacang dan telur", "Toastie salmon", "Matzo farfel", "Napolitana", "Salad yuzu", "Sosis squash dan mint", "Daging Sapi"],
+        "drinks": ["Minuman soda", "Jus apel", "Air", "Jus jeruk", "Es krim", "Es teh", "Jus tomat", "Coklat panas"]
+      },
+  
+      {
+        "id": "dwg2wt3is19kfw1e867",
+        "name": "Drinky Squash",
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+        "pictureId": "https://restaurant-api.dicoding.dev/images/medium/18",
+        "city": "Surabaya",
+        "rating": 3.9,
+        "foods": ["Sup Kohlrabi", "Paket rosemary", "Tumis leek", "Kari terong", "roket penne", "Sosis squash dan mint", "Salad lengkeng"],
+        "drinks": ["Es kopi", "Air", "Jus apel", "Kopi espresso", "Teh manis", "Jus jeruk", "Es teh", "Coklat panas", "Jus mangga", "Es krim", "Jus alpukat", "Sirup", "Minuman soda"]
+      },
+  
+      {
+        "id": "6u9lf7okjh9kfw1e867",
+        "name": "Ampiran Kota",
+        "description": "Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,",
+        "pictureId": "https://restaurant-api.dicoding.dev/images/medium/35",
+        "city": "Balikpapan",
+        "rating": 4.1,
+        "foods": ["Sup Kohlrabi", "Toastie salmon", "Tumis leek", "Ikan teri dan roti", "Kari kacang dan telur"],
+        "drinks": ["Jus alpukat", "Jus jeruk", "Coklat panas", "Es teh", "Teh manis", "Es krim", "Jus mangga"]
+      },
+  
+      {
+        "id": "zvf11c0sukfw1e867",
+        "name": "Gigitan Cepat",
+        "description": "Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,",
+        "pictureId": "https://restaurant-api.dicoding.dev/images/medium/38",
+        "city": "Bali",
+        "rating": 4,
+        "foods": ["Tumis leek", "Paket rosemary", "roket penne", "Daging Sapi", "Napolitana", "Salad lengkeng", "Matzo farfel", "Kari kacang dan telur", "Sosis squash dan mint","Kari terong"],
+        "drinks": ["Jus apel", "Air", "Teh manis", "Jus mangga", "Es teh", "Jus alpukat", "Jus tomat"]
+      },
+  
+      {
+        "id": "ughslf146iqkfw1e867",
+        "name": "Tempat Siang Hari",
+        "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+        "pictureId": "https://restaurant-api.dicoding.dev/images/medium/10",
+        "city": "Surabaya",
+        "rating": 4.4,
+        "foods": ["Matzo farfel", "Tumis leek", "Daging Sapi", "Napolitana", "Kari kacang dan telur", "Kari terong", "Ikan teri dan roti", "Bebek crepes", "roket penne", "Salad lengkeng", "Paket rosemary", "Salad yuzu"],
+        "drinks": ["Coklat panas", "Jus apel", "Sirup", "Kopi espresso", "Teh manis", "Es teh", "Es kopi", "Jus jeruk", "Air", "Jus mangga", "Jus tomat", "Minuman soda", "Es krim"]
+      }
+]
+  
